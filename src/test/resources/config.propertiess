@@ -1,0 +1,6 @@
+BASE_URL=https://opensource-demo.orangehrmlive.com
+username=Admin
+password=admin123
+BROWSER=edge
+HEADLESS=false
+EXCEL_FILE_PATH=src/test/resources/testdata/EmployeeData.xlsx
